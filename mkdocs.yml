@@ -7,7 +7,8 @@ edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md
-  - Introducao: introduction.md
+  - Blog:
+    - blog/index.md
 
 # Configuration
 theme:
@@ -103,3 +104,4 @@ plugins:
       version_selector: true
   - search:
       lang: pt
+  - blog

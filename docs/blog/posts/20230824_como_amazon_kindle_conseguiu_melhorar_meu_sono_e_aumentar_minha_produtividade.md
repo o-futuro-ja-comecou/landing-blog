@@ -1,3 +1,16 @@
+---
+date: 2023-08-26
+authors: [squidfunk]
+description: >
+  Our new blog is built with the brand new built-in blog plugin. You can build
+  a blog alongside your documentation or standalone
+categories:
+  - Blog
+links:
+  - Getting started with Insiders: insiders/getting-started.md#requirements
+  - setup/setting-up-a-blog.md#built-in-blog-plugin
+---
+
 # Como Amazon Kindle conseguiu melhorar meu sono e aumentar minha produtividade
 
 Readers are leaders[^1]
