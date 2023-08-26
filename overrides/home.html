@@ -1,4 +1,19 @@
 {% extends "main.html" %}
+{% block extrahead %}
+  {{ super() }}
+  <!--====== Favicon Icon ======-->
+  <link rel="shortcut icon" href="{{ 'assets/img/2.png' | url }}" type="image/png">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="{{ 'assets/css/bootstrap.min.css' | url }}">
+  <link rel="stylesheet" href="{{ 'assets/css/animate.css' | url }}">
+  <link rel="stylesheet" href="{{ 'assets/css/LineIcons.css' | url }}">
+  <link rel="stylesheet" href="{{ 'assets/css/owl.carousel.css' | url }}">
+  <link rel="stylesheet" href="{{ 'assets/css/owl.theme.css' | url }}">
+  <link rel="stylesheet" href="{{ 'assets/css/magnific-popup.css' | url }}">
+  <link rel="stylesheet" href="{{ 'assets/css/nivo-lightbox.css' | url }}">
+  <link rel="stylesheet" href="{{ 'assets/css/main.css' | url }}">
+  <link rel="stylesheet" href="{{ 'assets/css/responsive.css' | url }}">
+{% endblock %}
 {% block tabs %}
   {{ super() }}
   Testando Home Page
