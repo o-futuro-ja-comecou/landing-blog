@@ -33,6 +33,7 @@ theme:
     - search.suggest
     - toc.follow
     - content.action.edit
+    - navigation.footer
     # - toc.integrate
   palette:
     - scheme: default
