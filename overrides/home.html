@@ -14,8 +14,24 @@
   <link rel="stylesheet" href="{{ 'assets/css/main.css' | url }}">
   <link rel="stylesheet" href="{{ 'assets/css/responsive.css' | url }}">
 {% endblock %}
-{% block content %}
+
+{% block scripts %}
+  {{ super() }}
+  <!-- jQuery first, then Tether, then Bootstrap JS. -->
+  <script src="{{ 'assets/js/jquery-min.js' | url }}"></script>
+  <script src="{{ 'assets/js/popper.min.js' | url }}"></script>
+  <script src="{{ 'assets/js/bootstrap.min.js' | url }}"></script>
+  <script src="{{ 'assets/js/owl.carousel.js' | url }}"></script>
+  <script src="{{ 'assets/js/jquery.nav.js' | url }}"></script>
+  <script src="{{ 'assets/js/scrolling-nav.js' | url }}"></script>
+  <script src="{{ 'assets/js/jquery.easing.min.js' | url }}"></script>
+  <script src="{{ 'assets/js/nivo-lightbox.js' | url }}"></script>
+  <script src="{{ 'assets/js/jquery.magnific-popup.min.js' | url }}"></script>
+  <script src="{{ 'assets/js/form-validator.min.js' | url }}"></script>
+  <script src="{{ 'assets/js/contact-form-script.js' | url }}"></script>
+  <script src="{{ 'assets/js/main.js' | url }}"></script>
 {% endblock %}
+
 {% block footer %}
   {{ super() }}
 {% endblock %}
