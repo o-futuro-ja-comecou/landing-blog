@@ -1,6 +1,6 @@
 ---
 date: 2023-08-26
-authors: [squidfunk]
+authors: [gabrielbdornas]
 description: >
   Our new blog is built with the brand new built-in blog plugin. You can build
   a blog alongside your documentation or standalone

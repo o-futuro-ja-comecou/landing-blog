@@ -5,14 +5,10 @@ repo_name: o-futuro-ja-comecou/landingpage
 repo_url: https://github.com/o-futuro-ja-comecou/landingpage
 edit_uri: edit/main/docs/
 
-nav:
-  - Home: index.md
-  - Blog:
-    - blog/index.md
-
 # Configuration
 theme:
   name: material
+  language: pt
   custom_dir: overrides
   features:
     # - announce.dismiss
@@ -104,4 +100,8 @@ plugins:
       version_selector: true
   - search:
       lang: pt
-  - blog
+  - blog:
+      blog_toc: true
+      post_url_format: "{slug}"
+      archive: false
+      categories_toc: true
