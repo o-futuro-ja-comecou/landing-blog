@@ -59,5 +59,5 @@ Conclusão?
 [^1]: Escrito por pesquisadores da Universidade de Tecnologia Chalmers, na Suécia.
 [^2]: Tanto o artigo quanto o resumo citados analisam eficiência em equipes de engenharia de software.
 [^3]: GitLab e Bitbucket são outros exemplos de ferramentas.
-[^4]: Um bom exemplo de issues de repositório para organização de conteúdo que não é código: https://github.com/mschermann/data_viz_reader
+[^4]: Um bom exemplo de issues de repositório para organização de conteúdo que não é código: https://mschermann.github.io/data_viz_reader/
 [^5]: A Diretoria Central de Transparência Ativa da CGE/MG utilizou para receber propostas no [Guia de Transparência Ativa](https://transparencia-mg.github.io/guia-transparencia-ativa/v3/organizacao-dos-conteudos/) e no [Manual do Portal de Dados Abertos de Minas Gerais](https://transparencia-mg.github.io/manual-dados-mg/0.1/2.%20Ciclo%20de%20publica%C3%A7%C3%A3o%20de%20dados/005_escolha_das_bases/), inclusive com sistemas de comentários nos rodapés das páginas criadas em sites estáticos (livemark, mkdocs), estilo blog
