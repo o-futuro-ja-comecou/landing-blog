@@ -1,20 +1,16 @@
 ---
 date: 2023-08-26
 authors: [gabrielbdornas]
-description: >
-  Our new blog is built with the brand new built-in blog plugin. You can build
-  a blog alongside your documentation or standalone
 categories:
-  - Blog
-links:
-  - Getting started with Insiders: insiders/getting-started.md#requirements
-  - setup/setting-up-a-blog.md#built-in-blog-plugin
+  - Leitura
 ---
 
 # Você não sabia mais código é igual a documento
 
 Recentemente li a newsletter [Psychological Safety and Norm Clarity in Software Engineering Teams](https://newsletter.abinoda.com/p/engineering-team-norm-clarity?utm_source=post-email-title&publication_id=996688&post_id=136340388&isFreemail=true&utm_medium=email) escrita por Abi Noda.
 Em seu texto, Noda faz um breve resumo sobre sua leitura do artigo [Psychological safety and norm clarity in software engineering teams](https://dl.acm.org/doi/10.1145/3195836.3195847?utm_source=substack&utm_medium=email)[^1], que examina como a segurança psicológica e a clareza das normas impactam na eficácia de uma equipe[^2].
+
+<!-- more -->
 
 **Neste sentido, segurança psicológica se refere à crença de um grupo em relação à segurança para expressar opiniões, assumir riscos e cometer erros sem o receio de consequências negativas**.
 Ela cria um ambiente no qual os indivíduos se sentem à vontade para compartilhar ideias, fazer perguntas e contribuir de forma autêntica, o que promove a inovação e a colaboração.

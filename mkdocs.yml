@@ -106,7 +106,7 @@ plugins:
   - search:
       lang: pt
   - blog:
-      blog_toc: true
       post_url_format: "{slug}"
       archive: false
       categories_toc: true
+      post_excerpt: required
