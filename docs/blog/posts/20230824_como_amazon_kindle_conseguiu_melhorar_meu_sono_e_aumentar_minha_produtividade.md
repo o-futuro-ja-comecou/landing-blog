@@ -1,14 +1,8 @@
 ---
 date: 2023-08-26
 authors: [gabrielbdornas]
-description: >
-  Our new blog is built with the brand new built-in blog plugin. You can build
-  a blog alongside your documentation or standalone
 categories:
-  - Blog
-links:
-  - Getting started with Insiders: insiders/getting-started.md#requirements
-  - setup/setting-up-a-blog.md#built-in-blog-plugin
+  - GitHub
 ---
 
 # Como Amazon Kindle conseguiu melhorar meu sono e aumentar minha produtividade
@@ -18,6 +12,9 @@ Readers are leaders[^1]
 A primeira vez que escutei esta frase fiquei maravilhado.
 Ao longo de quase 15 anos de profissão sempre me perguntei se não haveria uma maneira mais rápida de se aprender novos assuntos.
 Me refiro ao aprendizado autodidata, pois não queria cursos tradicionais que conseguiriam me dar um título, mas pouco ou nenhum conhecimento de fato.
+
+<!-- more -->
+
 Como um apaixonado por tecnologia e desenvolvimento de software, em especial desenvolvimento web, fiz do YouTube minha primeira fonte de informação neste aspecto.
 Mas sentia alguns desconfortos neste processo:
 
