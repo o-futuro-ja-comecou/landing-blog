@@ -7,7 +7,7 @@ categories:
 
 # Como o GitHub pode ser utilizado para facilitar o entendimento das normas de sua equipe.
 
-Recentemente li a newsletter [Psychological Safety and Norm Clarity in Software Engineering Teams](https://newsletter.abinoda.com/p/engineering-team-norm-clarity?utm_source=post-email-title&publication_id=996688&post_id=136340388&isFreemail=true&utm_medium=email) escrita por Abi Noda.
+Recentemente li [esta newsletter](https://newsletter.abinoda.com/p/engineering-team-norm-clarity?utm_source=post-email-title&publication_id=996688&post_id=136340388&isFreemail=true&utm_medium=email) escrita por Abi Noda.
 Em seu texto, Noda faz um breve resumo sobre sua leitura do artigo [Psychological safety and norm clarity in software engineering teams](https://dl.acm.org/doi/10.1145/3195836.3195847?utm_source=substack&utm_medium=email)[^1], que examina como a segurança psicológica e a clareza das normas impactam na eficácia de uma equipe[^2].
 
 <!-- more -->
@@ -40,7 +40,7 @@ Quais ferramentas e práticas podemos utilizar neste processo?
 é a utilização incessante do GitHub[^3].**
 
 O GitHub é uma plataforma gratúita, amplamente utilizada para o gerenciamento de projetos de desenvolvimento de software e **colaboração entre equipes**. Funciona como um repositório online onde os desenvolvedores podem armazenar, compartilhar e colaborar no código-fonte de seus projetos. **Além disso, ele oferece recursos de gestão de projetos que facilitam a coordenação e comunicação entre equipes**.
-Uma das funcionalidades mais notáveis neste ecossistema é a abertura de "Issues", que também costumo chamar de sistema de gestão de tickets.
+Uma das funcionalidades mais notáveis neste ecossistema é a abertura de "Issues", que costumo descrever como tickets.
 **Issue podem ser usados para rastrear tarefas, problemas, soluções de melhorias e discussões relacionadas a algum projeto ou rotina**.
 Issues simplificam a comunicação e, **principalmente, mantém um registro estruturado das decisões tomadas**.
 Isso sem, sombra de dúvidas, tem grande potencial para melhorar a clareza das normas de uma equipe e, consequentemente, contribuir para o ganho de eficiência.
@@ -78,7 +78,7 @@ Exatamente, a flexibilidade da plataforma permite que grupos de diferentes área
 Bom, meu objetivo aqui não é mostrar a utilização do GitHub, porque isso podemos fazer de maneira mais detalhada no futuro.
 Quero apenas plantar esta ideia na sua cabeça.
 Tenho certeza que você ficou com curiosidade.
-Então sugiro que [crie seu login na plataforma](https://github.com/signup?source=login), caso ainda não tenha, e porque não, começe a utilizá-la.
+Então sugiro que [crie seu login na plataforma](https://github.com/signup?source=login) e começe a utilizá-la.
 Pesquise como incluir arquivos, como abrir issues, como convidar colegas para participar e caso deseje ir mais além, como criar um projetos para acompanhar o andamento de todos os issues abertos.
 
 Boa jornada!
