@@ -2,7 +2,7 @@
 date: 2023-08-26
 authors: [gabrielbdornas]
 categories:
-  - GitHub
+  - Produtividade
 ---
 
 # Como aumentei minha produtividade dormindo um sono tranquilo.

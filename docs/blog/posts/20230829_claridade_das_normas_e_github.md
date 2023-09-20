@@ -2,7 +2,8 @@
 date: 2023-08-26
 authors: [gabrielbdornas, andrelamor]
 categories:
-  - Leitura
+  - GitHub
+  - Produtividade
 ---
 
 # Como o GitHub pode ser utilizado para facilitar o entendimento das normas de sua equipe.
