@@ -5,13 +5,12 @@ categories:
   - GitHub
 ---
 
-# Como Amazon Kindle conseguiu melhorar meu sono e aumentar minha produtividade
+# Como aumentei minha produtividade dormindo um sono tranquilo.
 
-Readers are leaders[^1]
-
+Readers are leaders[^1].
 A primeira vez que escutei esta frase fiquei maravilhado.
-Ao longo de quase 15 anos de profissão sempre me perguntei se não haveria uma maneira mais rápida de se aprender novos assuntos.
-Me refiro ao aprendizado autodidata, pois não queria cursos tradicionais que conseguiriam me dar um título, mas pouco ou nenhum conhecimento de fato.
+Ao longo de quase 15 anos de profissão sempre me perguntei se não haveria uma maneira mais rápida para aprender novos assuntos.
+Me refiro ao aprendizado autodidata, pois não quero cursos tradicionais com certificados e pouco, ou nenhum, conhecimento de fato.
 
 <!-- more -->
 
@@ -24,15 +23,19 @@ Mas sentia alguns desconfortos neste processo:
 - Ainda por priorizar vídeos curtos em algumas situações não conseguia colocar o conhecimento em prática pois sempre esbarrava na falta de conceitos um pouco mais aprofundados, que o vídeo assistido, por questões de tempo, não havia abordado.
 - Falta de paciência para assistir conteúdos, curtos ou não, tentando pescar a resposta que desejava sem ter a exata noção se ira encontrar.
 
-Apesar de gostar muito do modelo e de ter conseguido aprender várias coisas relacionados a programação[^2] sentia falta de mais efetividade no aprendizado.
+Apesar de gostar muito do modelo e de ter conseguido aprender várias coisas relacionados a programação[^2], sentia falta de mais efetividade no aprendizado.
 Me perguntava como conseguiria passar de um conhecedor superficial para uma autoridade?
-Resolvi então entrevistar alguns amigos sobre quais as estratégias utilizadas por eles para se aprimorar de maneira autodidata.
-A resposta mais interessante foi a seguinte: Toda vez que leio um livro sobre o assunto que quero entender, colocando o que estou lendo em prática, tenho a sensação de que aquilo de fato entrou na minha cabeça.
+Resolvi então entrevistar alguns amigos buscando descobrir suas estratégias de estudo.
+A resposta mais interessante foi a seguinte: Toda vez que leio um livro com assunto relacionando ao problema que estou tentando resolver no trabalho tenho a sensação de ter absorvido naturalmente o conteúdo, ou que ele de fato entrou na minha cabeça.
 
 Nesta hora percebi que não havia me dedicado a leituras constantes nos últimos tempos.
-O que me causou estranhesa pois ler sempre foi um hábito que me deu muito prazer[^3].
-Enfim, não fiquei procurando um culpado e sim resolvi testar a dica valiosa recebida.
-Bom, mas como tudo nessa vida não são flores, conto para vocês o que neste caminho funcionou e o que não funcionou.
+O que me causou estranhesa pois sempre gostei muito de ler[^3].
+Enfim, não fiquei procurando um culpado e sim resolvi testar a dica recebida.
+Mas como nessa vida nem tudo são flores, conto para vocês o que neste caminho funcionou e o que não funcionou.
+
+!!! success "The jump of the cat :smiley_cat:"
+
+    Ler um livro com assunto relacionando a algum problema real vivenciado te fará absorver naturalmente o conteúdo.
 
 Resolvi ler de noite, antes de dormir.
 Escolhi um bom livro sobre Python, afinal gostaria de tirar algumas dúvidas e quem sabe me debruçar um pouco mais sobre o funcionamento da linguagem.
@@ -79,10 +82,10 @@ Para finalizar, alguma disciplina para, de fato, organizar todo este conheciment
 O que não foi um grande problema, frente aos ganhos percebidos em apenas uma semana de testes.
 
 Pronto!
-Hoje posso dizer, com muita clareza, que hoje durmo um sono tranquilo pois libero minha mente desta sobrecarga informacional que somos bombardeados ao longo do dia.
+Hoje posso dizer, com muita clareza, que hoje durmo um sono tranquilo pois encontrei um modo de liberar minha mente da sobrecarga informacional recebida ao longo do dia.
 
 [^1]: Resolvi iniciar este post por esta frase, não traduzida do inglês para o português, simplemente para manter a rima criada no idioma original. Segundo [Risq Consulting Blog](https://risqconsulting.com/not-all-readers-are-leaders-but-all-leaders-are-readers/) foi foi [Harry S. Truman](https://pt.wikipedia.org/wiki/Harry_S._Truman) quem disse: “Nem todos os leitores são líderes, mas todos os líderes são leitores”.
-[^2]: Aprendi o básico da linguagem de programação Python, do zero, assistindo o vídeo [Python for Beginners - Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+[^2]: Aprendi, por exemplo, o básico da linguagem de programação Python, do zero, assistindo o vídeo [Python for Beginners - Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 [^3]: Além de prazer, a leitura pode promover vários outros benefícios para a saúde mental, como apontado pelo artigo [Hábito de leitura estimula o cérebro e promove benefícios para a saúde mental](https://www.pucrs.br/blog/habito-de-leitura/) escrito pela Puc do Rio Grande do Sul.
 [^4]: Descobri um pequeno livro na estante de casa chamado [O menino no espelho](https://www.amazon.com.br/menino-no-espelho-Fernando-Sabino/dp/8501915505), do escritor [Fernando Sabino](https://pt.wikipedia.org/wiki/Fernando_Sabino). Em uma leitura inicial, despretenciosa, descobri que Fernando era mineiro e que passou sua infância em Belo Horizonte, na mesma região da cidade em que moro atualmente. Este fato me chamou muita atenção, além da escrita de leitura fácil e divertida. Acabei lendo vários livros dele, entre eles [O grande mentecapto](https://www.amazon.com.br/grande-mentecapto-Fernando-Sabino/dp/8501912808), que também se passa em Minas Gerais. Que aventuras!
 [^5]: [Descubra um pouco mais sobre a filosofia GTD](https://gettingthingsdone.com/).
